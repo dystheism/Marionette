@@ -4,7 +4,7 @@
 
 NW.js desktop app
 
-Used to send commands to [Puppet](https://github.com/misotheism/Marionette)
+Used to send commands to [Puppet](https://github.com/misotheism/Puppet)
 
 ### Setup:
 
